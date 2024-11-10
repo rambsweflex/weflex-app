@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import { Metadata } from "next/dist/lib/metadata/types/metadata-interface";
 import localFont from "next/font/local";
 import "./globals.css";
 
